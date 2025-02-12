@@ -3,6 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # This is the front-matter. Below the hyphens are the content.
-layout: splash
+layout: single
 author_profile: false
 ---
