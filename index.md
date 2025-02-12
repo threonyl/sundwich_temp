@@ -25,3 +25,25 @@ feature_row:
   - title: "All The Basics Included"
     excerpt: "SUndwich includes push-buttons, sliders, LEDs and a four-digit seven segment display."
 ---
+
+<style>
+  .splash {
+    max-width: 1060px;
+    margin: 0 auto;
+  }
+
+  .page__title {
+    display: none;
+  }
+
+  .intro_text .archive__item-body {
+      max-width: 700px;
+      width: auto;
+  }
+</style>
+
+<div class="intro_text">
+  {% include feature_row id="intro" type="center" %}
+</div>
+
+{% include feature_row %}
