@@ -14,4 +14,5 @@ header:
     - label: "About"
       url: "/about/"
   caption: "[**SUndwich**](https://web.archive.org/web/20220301205859/http://acoustics.sabanciuniv.edu/~abozkurt/)"
+  excerpt: "SUndwich is an open-source FPGA daughterboard designed for use in introductory digital design courses."
 ---
