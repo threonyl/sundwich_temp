@@ -5,4 +5,13 @@
 # This is the front-matter. Below the hyphens are the content.
 layout: single
 author_profile: false
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: assets/images/background.jpg
+  actions:
+    - label: "About"
+      url: "/about/"
+  caption: "[**SUndwich**](https://web.archive.org/web/20220301205859/http://acoustics.sabanciuniv.edu/~abozkurt/)"
 ---
