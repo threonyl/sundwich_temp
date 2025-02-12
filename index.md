@@ -15,4 +15,13 @@ header:
       url: "/about/"
   caption: "[**SUndwich**](https://web.archive.org/web/20220301205859/http://acoustics.sabanciuniv.edu/~abozkurt/)"
 excerpt: "SUndwich is an open-source FPGA daughterboard designed for use in introductory digital design courses."
+intro:
+  - excerpt: 'SUndwich provides the basic input/output accessories to the Tang Nano 9K FPGA board. The design is open-source and allows for anyone to modify it.'
+feature_row:
+  - title: "Cross Platform"
+    excerpt: "Students can run the open-source toolchain on Windows, MacOS, or Linux."
+  - title: "Open Source"
+    excerpt: "SUndwich is licensed under MIT."
+  - title: "All The Basics Included"
+    excerpt: "SUndwich includes push-buttons, sliders, LEDs and a four-digit seven segment display."
 ---
