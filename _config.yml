@@ -89,6 +89,10 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+# Hide RSS Feed footer
+atom_feed:
+  hide: true
+
 defaults:
   # _posts
   - scope:
