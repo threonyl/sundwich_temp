@@ -24,6 +24,13 @@ feature_row:
     excerpt: "SUndwich is licensed under MIT."
   - title: "All The Basics Included"
     excerpt: "SUndwich includes push-buttons, sliders, LEDs and a four-digit seven segment display."
+carousel_elements:
+    - image: assets/images/pcb_top.png
+      title: PCB Top Layer
+      link: https://threonyl.github.io/sundwich_temp/
+    - image: assets/images/pcb_bottom.png
+      title: PCB Bottom Layer
+      link: https://threonyl.github.io/sundwich_temp/
 ---
 
 <style>
@@ -44,6 +51,10 @@ feature_row:
 
 <div class="intro_text">
   {% include feature_row id="intro" type="center" %}
+</div>
+
+<div style="max-width: 600px !important; margin-left: auto; margin-right: auto;">
+      {% include carousel.html elements=page.carousel_elements height="300" unit="px" duration="7" %}
 </div>
 
 {% include feature_row %}
