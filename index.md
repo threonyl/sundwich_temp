@@ -54,7 +54,7 @@ carousel_elements:
 </div>
 
 <div style="max-width: 600px !important; margin-left: auto; margin-right: auto;">
-      {% include carousel.html elements=page.carousel_elements height="300" unit="px" duration="7" %}
+      {% include carousel.html elements=page.carousel_elements height="400" unit="px" duration="7" %}
 </div>
 
 {% include feature_row %}
