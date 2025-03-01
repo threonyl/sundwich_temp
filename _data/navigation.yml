@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "Setup"
     url: /tool_setup/
+  - title: "Download"
+    url: /download/
