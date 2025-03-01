@@ -12,8 +12,9 @@ This document describes the setup of Digital Logic Simulator, VS Code, and Icaru
 	* macOS (Tested on macOS 15)
 	* Windows 11 (Windows 10 should also work)
 
-> [!CAUTION]
-> Earlier versions of macOS have permission issues with Java applications like Digital. Thus, they won't run, or even if they run, **you won't be able to see your files and folders**. We have come across similar issues in the previous years for macOS users. Hence, you must **update your macOS** to the latest version for Digital to work.
+
+**Note:** Earlier versions of macOS have permission issues with Java applications like Digital. Thus, they won't run, or even if they run, **you won't be able to see your files and folders**. We have come across similar issues in the previous years for macOS users. Hence, you must **update your macOS** to the latest version for Digital to work.
+{: .notice--danger}
 
 **Table Of Contents**
 
@@ -122,8 +123,9 @@ Follow installation instructions from https://brew.sh/.
 ![Screenshot](../assets/images/tool_setup/macos/brew_web.jpeg)
 
 Paste the shell command from the website.
-> [!CAUTION]
-> Always check the scripts that you are running. For this one we can look into the script and verify that it is safe.
+
+**Warning!:** Always check the scripts that you are running. For this one we can look into the script and verify that it is safe.
+{: .notice--danger}
 
 ![Screenshot](../assets/images/tool_setup/macos/brew_paste_cmd.jpeg)
 
@@ -134,8 +136,8 @@ Press Enter when asked, this process may take a while (~30 minutes depending on 
 ![Screenshot](../assets/images/tool_setup/macos/brew_enter.jpeg)
 
 
-> [!NOTE] This step might take a long time!
-> This download might take a full day, if your computer is out-of-date. We have observed that the Apple CDN is very slow on our university network. Please consider this and complete this step as soon as possible.
+**Note:** This step might take a long time! This download might take a full day, if your computer is out-of-date. We have observed that the Apple CDN is very slow on our university network. Please consider this and complete this step as soon as possible.
+{: .notice--info}
 
 
 After the installation finishes, copy the two commands Homebrew prints out and paste it inside the Terminal window. It will be corresponding to your machine so copy it from the Terminal output. ![Screenshot](../assets/images/tool_setup/macos/brew_copy_lines.jpeg)
