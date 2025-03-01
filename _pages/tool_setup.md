@@ -369,6 +369,7 @@ https://github.com/YosysHQ/oss-cad-suite-build/releases/tag/2023-02-10
 * Add a new line to this .lushay.json file by placing a comma (,) and writing the following in a new line. We specify our top module with this line. This will change according to your top module name. ![screenshot](../assets/images/tool_setup/fpga/fpga_json_main.png)
 * Add a new file by right clicking on the explorer section and name it as “main.v”. (You can choose this name according to your assignment) ![screenshot](../assets/images/tool_setup/fpga/fpga_main_v.png)
 * Then copy the following code into the “main.v”: 
+
 ```verilog 
 // THIS FILE IS INTENDED FOR CHECKING IF YOUR SETUP WORKS, IT IS NOT RELATED TO ANY ASSIGNMENTS
 
