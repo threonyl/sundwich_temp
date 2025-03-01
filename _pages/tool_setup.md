@@ -1,9 +1,7 @@
 ---
 permalink: /tool_setup/
-title: "Tool Setup"
+title: "Tool Setup Guide"
 ---
-
-# Tool Setup Guide
 
 This document describes the setup of Digital Logic Simulator, VS Code, and Icarus Verilog for Windows, Mac, Ubuntu Linux.
 
@@ -19,26 +17,25 @@ This document describes the setup of Digital Logic Simulator, VS Code, and Icaru
 
 **Table Of Contents**
 
-- [Tool Setup Guide](#tool-setup-guide)
-	- [Linux (Ubuntu 22.04) Setup Guide](#linux-ubuntu-2204-setup-guide)
-		- [Icarus Verilog Setup Linux](#icarus-verilog-setup-linux)
-		- [Visual Studio Code Setup Linux](#visual-studio-code-setup-linux)
-		- [Java Setup Linux](#java-setup-linux)
-		- [Digital Logic Simulator Setup Linux](#digital-logic-simulator-setup-linux)
-	- [MacOS Setup Guide](#macos-setup-guide)
-		- [Homebrew Setup](#homebrew-setup)
-		- [Icarus Verilog Setup macOS](#icarus-verilog-setup-macos)
-		- [Visual Studio Code Setup macOS](#visual-studio-code-setup-macos)
-		- [Java Setup macOS](#java-setup-macos)
-		- [Digital Logic Simulator Setup macOS](#digital-logic-simulator-setup-macos)
-	- [Windows Setup Guide](#windows-setup-guide)
-		- [Icarus Verilog Setup Windows](#icarus-verilog-setup-windows)
-		- [Visual Studio Code Setup Windows](#visual-studio-code-setup-windows)
-		- [Java Setup Windows](#java-setup-windows)
-		- [Digital Logic Simulator Setup Windows](#digital-logic-simulator-setup-windows)
-	- [TerosHDL Setup (For All OS)](#teroshdl-setup-for-all-os)
-	- [Surfer Setup (For All OS)](#surfer-setup-for-all-os)
-	- [FPGA Setup (For All OS)](#fpga-setup-for-all-os)
+- [Linux (Ubuntu 22.04) Setup Guide](#linux-ubuntu-2204-setup-guide)
+	- [Icarus Verilog Setup Linux](#icarus-verilog-setup-linux)
+	- [Visual Studio Code Setup Linux](#visual-studio-code-setup-linux)
+	- [Java Setup Linux](#java-setup-linux)
+	- [Digital Logic Simulator Setup Linux](#digital-logic-simulator-setup-linux)
+- [MacOS Setup Guide](#macos-setup-guide)
+	- [Homebrew Setup](#homebrew-setup)
+	- [Icarus Verilog Setup macOS](#icarus-verilog-setup-macos)
+	- [Visual Studio Code Setup macOS](#visual-studio-code-setup-macos)
+	- [Java Setup macOS](#java-setup-macos)
+	- [Digital Logic Simulator Setup macOS](#digital-logic-simulator-setup-macos)
+- [Windows Setup Guide](#windows-setup-guide)
+	- [Icarus Verilog Setup Windows](#icarus-verilog-setup-windows)
+	- [Visual Studio Code Setup Windows](#visual-studio-code-setup-windows)
+	- [Java Setup Windows](#java-setup-windows)
+	- [Digital Logic Simulator Setup Windows](#digital-logic-simulator-setup-windows)
+- [TerosHDL Setup (For All OS)](#teroshdl-setup-for-all-os)
+- [Surfer Setup (For All OS)](#surfer-setup-for-all-os)
+- [FPGA Setup (For All OS)](#fpga-setup-for-all-os)
 
 
 ## Linux (Ubuntu 22.04) Setup Guide
