@@ -119,3 +119,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Make code blocks easily copiable
+enable_copy_code_button: true
