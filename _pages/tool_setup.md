@@ -210,9 +210,8 @@ Go to the following link. It will download **`Digital.zip`** file to your comput
 * Right click the "**`Digital.jar`**" file with `option ⌥` key pressed, and select "**Open**". ![Screenshot](../assets/images/tool_setup/macos/digital_right_click.jpeg)
 * When asked if you want to open the file, click "**Open**".  If your only option is to "Move to trash" click "Cancel", and follow the webpage in the information bubble.![Screenshot](../assets/images/tool_setup/macos/macos_open_dia.jpeg)
 
-> [!NOTE] What if the "Open" option does not show up?
-> See the following webpage.
-> https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac
+**Note:** What if the "Open" option does not show up? See the following webpage. https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac
+{: .notice--info}
 
 
 * Click "**OK**" to give folder permissions to the application. ![Screenshot](../assets/images/tool_setup/macos/macos_perm_java.jpeg)
